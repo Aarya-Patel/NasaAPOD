@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.5312c648.chunk.css",
-    "main.js": "/static/js/main.f7b58944.chunk.js",
-    "main.js.map": "/static/js/main.f7b58944.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3a81d45e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3a81d45e.js.map",
-    "static/js/2.c3b44dda.chunk.js": "/static/js/2.c3b44dda.chunk.js",
-    "static/js/2.c3b44dda.chunk.js.map": "/static/js/2.c3b44dda.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.f686567b8d0b017b8bbeda3c47c111e7.js": "/precache-manifest.f686567b8d0b017b8bbeda3c47c111e7.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5312c648.chunk.css.map": "/static/css/main.5312c648.chunk.css.map",
-    "static/js/2.c3b44dda.chunk.js.LICENSE.txt": "/static/js/2.c3b44dda.chunk.js.LICENSE.txt",
-    "static/media/HeroStyles.css": "/static/media/hero.d24a65f2.jpg",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
-    "static/media/nasa-logo.svg": "/static/media/nasa-logo.80115d2c.svg"
+    "main.css": "/NasaAPOD/static/css/main.7bd3826b.chunk.css",
+    "main.js": "/NasaAPOD/static/js/main.e41ba79d.chunk.js",
+    "main.js.map": "/NasaAPOD/static/js/main.e41ba79d.chunk.js.map",
+    "runtime-main.js": "/NasaAPOD/static/js/runtime-main.2cfb126d.js",
+    "runtime-main.js.map": "/NasaAPOD/static/js/runtime-main.2cfb126d.js.map",
+    "static/js/2.c3b44dda.chunk.js": "/NasaAPOD/static/js/2.c3b44dda.chunk.js",
+    "static/js/2.c3b44dda.chunk.js.map": "/NasaAPOD/static/js/2.c3b44dda.chunk.js.map",
+    "index.html": "/NasaAPOD/index.html",
+    "precache-manifest.4cd09785181ad1a9c9127bb24cbeba18.js": "/NasaAPOD/precache-manifest.4cd09785181ad1a9c9127bb24cbeba18.js",
+    "service-worker.js": "/NasaAPOD/service-worker.js",
+    "static/css/main.7bd3826b.chunk.css.map": "/NasaAPOD/static/css/main.7bd3826b.chunk.css.map",
+    "static/js/2.c3b44dda.chunk.js.LICENSE.txt": "/NasaAPOD/static/js/2.c3b44dda.chunk.js.LICENSE.txt",
+    "static/media/HeroStyles.css": "/NasaAPOD/static/media/hero.d24a65f2.jpg",
+    "static/media/logo.svg": "/NasaAPOD/static/media/logo.5d5d9eef.svg",
+    "static/media/nasa-logo.svg": "/NasaAPOD/static/media/nasa-logo.80115d2c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3a81d45e.js",
+    "static/js/runtime-main.2cfb126d.js",
     "static/js/2.c3b44dda.chunk.js",
-    "static/css/main.5312c648.chunk.css",
-    "static/js/main.f7b58944.chunk.js"
+    "static/css/main.7bd3826b.chunk.css",
+    "static/js/main.e41ba79d.chunk.js"
   ]
 }
