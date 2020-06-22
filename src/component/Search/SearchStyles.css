@@ -1,0 +1,26 @@
+.search-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  line-height: 2em;
+  height: 100%;
+  padding: 3em 0em;
+  margin: 0em 3em;
+}
+
+.data-container {
+  display: grid;
+  position: relative;
+  width: 100%;
+  align-items: center;
+  margin: 3rem 0;
+  grid-template-columns: repeat(5, 1fr);
+}
+
+@media (max-width: 414px) {
+  .search-box {
+    margin: 0em 2em;
+  }
+}
