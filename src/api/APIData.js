@@ -15,7 +15,6 @@ const apiData = async (DATE) => {
   data.ok
     ? (json = { ...(await data.json()), ok: true })
     : (json = { ok: false, error: "Invalid input" });
-
   return json;
 };
 
