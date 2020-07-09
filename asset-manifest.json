@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/NasaAPOD/static/css/main.a8bcd45c.chunk.css",
+    "main.css": "/NasaAPOD/static/css/main.cfb14e48.chunk.css",
     "main.js": "/NasaAPOD/static/js/main.e41ba79d.chunk.js",
     "main.js.map": "/NasaAPOD/static/js/main.e41ba79d.chunk.js.map",
     "runtime-main.js": "/NasaAPOD/static/js/runtime-main.2cfb126d.js",
@@ -8,9 +8,9 @@
     "static/js/2.c3b44dda.chunk.js": "/NasaAPOD/static/js/2.c3b44dda.chunk.js",
     "static/js/2.c3b44dda.chunk.js.map": "/NasaAPOD/static/js/2.c3b44dda.chunk.js.map",
     "index.html": "/NasaAPOD/index.html",
-    "precache-manifest.54a74c82ed8b34ae19743be7608e12d9.js": "/NasaAPOD/precache-manifest.54a74c82ed8b34ae19743be7608e12d9.js",
+    "precache-manifest.113a0d0800c2ff6598a62d076d0e5823.js": "/NasaAPOD/precache-manifest.113a0d0800c2ff6598a62d076d0e5823.js",
     "service-worker.js": "/NasaAPOD/service-worker.js",
-    "static/css/main.a8bcd45c.chunk.css.map": "/NasaAPOD/static/css/main.a8bcd45c.chunk.css.map",
+    "static/css/main.cfb14e48.chunk.css.map": "/NasaAPOD/static/css/main.cfb14e48.chunk.css.map",
     "static/js/2.c3b44dda.chunk.js.LICENSE.txt": "/NasaAPOD/static/js/2.c3b44dda.chunk.js.LICENSE.txt",
     "static/media/HeroStyles.css": "/NasaAPOD/static/media/hero.d24a65f2.jpg",
     "static/media/logo.svg": "/NasaAPOD/static/media/logo.5d5d9eef.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.2cfb126d.js",
     "static/js/2.c3b44dda.chunk.js",
-    "static/css/main.a8bcd45c.chunk.css",
+    "static/css/main.cfb14e48.chunk.css",
     "static/js/main.e41ba79d.chunk.js"
   ]
 }
