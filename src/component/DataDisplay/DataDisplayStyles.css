@@ -11,8 +11,6 @@
   padding: 1em 2em;
   position: absolute;
   left: -10%;
-  max-height: 100%;
-  overflow: scroll;
   background-color: rgb(40, 40, 40);
   text-align: left;
 }
@@ -29,8 +27,8 @@
 
   .data-text {
     grid-row: 2/3;
-    position: relative;
     grid-column: 1/-1;
+    position: relative;
     left: 0;
   }
 }

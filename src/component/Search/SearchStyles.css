@@ -16,6 +16,7 @@
   width: 100%;
   align-items: center;
   margin: 3rem 0;
+  grid-gap: 1em 0em;
   grid-template-columns: repeat(5, 1fr);
 }
 
